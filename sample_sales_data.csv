@@ -1,0 +1,51 @@
+Date,Product,Region,Salesperson,Units Sold,Unit Price,Total Sale,Payment Method
+2024-03-13,Mouse,North,Eva,13,51.38,667.94,UPI
+2024-02-08,Router,West,Bob,13,685.09,8906.17,Credit Card
+2024-01-13,Laptop,South,Bob,3,448.74,1346.22,UPI
+2024-01-18,Printer,North,David,10,406.7,4067.0,UPI
+2024-02-20,Printer,South,David,11,828.51,9113.61,UPI
+2024-03-01,Smartphone,South,Charlie,8,358.59,2868.72,Online Transfer
+2024-03-13,Monitor,West,Charlie,6,931.9,5591.4,Online Transfer
+2024-03-31,Mouse,North,David,3,343.64,1030.92,Credit Card
+2024-01-11,Router,South,Eva,19,690.17,13113.23,Online Transfer
+2024-01-26,Laptop,West,Frank,9,815.78,7342.02,Cash
+2024-01-10,Laptop,West,David,18,914.45,16460.1,Online Transfer
+2024-04-04,Keyboard,West,Eva,1,954.0,954.0,Cash
+2024-03-15,Monitor,West,Bob,1,237.4,237.4,Cash
+2024-02-08,Keyboard,West,Charlie,4,833.14,3332.56,UPI
+2024-02-25,Tablet,North,Charlie,15,925.96,13889.4,UPI
+2024-01-16,Router,West,Charlie,7,407.52,2852.64,Cash
+2024-03-15,Router,East,David,12,740.45,8885.4,Cash
+2024-03-09,Mouse,East,Alice,4,384.15,1536.6,Online Transfer
+2024-01-22,Keyboard,South,Frank,20,312.35,6247.0,Online Transfer
+2024-03-24,Mouse,South,Alice,9,487.23,4385.07,Online Transfer
+2024-01-16,Router,North,David,7,186.69,1306.83,Credit Card
+2024-02-28,Smartphone,South,Charlie,4,777.83,3111.32,Online Transfer
+2024-01-11,Mouse,West,Charlie,11,333.83,3672.13,UPI
+2024-01-25,Laptop,West,Frank,20,579.23,11584.6,Credit Card
+2024-02-16,Smartphone,South,Alice,3,300.57,901.71,Credit Card
+2024-03-22,Printer,South,Alice,20,649.19,12983.8,UPI
+2024-01-28,Laptop,West,Frank,7,759.48,5316.36,Cash
+2024-01-21,Smartphone,East,Eva,4,591.03,2364.12,Online Transfer
+2024-02-28,Keyboard,North,Bob,3,197.58,592.74,Online Transfer
+2024-03-03,Smartphone,West,Eva,4,503.59,2014.36,Online Transfer
+2024-01-04,Smartphone,North,David,16,587.47,9399.52,Cash
+2024-02-23,Printer,East,Frank,5,952.02,4760.1,UPI
+2024-03-03,Monitor,South,David,1,145.89,145.89,UPI
+2024-01-24,Smartphone,South,Charlie,17,301.02,5117.34,UPI
+2024-04-02,Laptop,East,David,20,561.11,11222.2,UPI
+2024-03-11,Mouse,East,David,10,727.81,7278.1,UPI
+2024-02-21,Router,East,Eva,19,112.92,2145.48,Online Transfer
+2024-01-07,Printer,North,Eva,18,567.45,10214.1,UPI
+2024-03-30,Tablet,West,Bob,5,688.22,3441.1,Online Transfer
+2024-03-06,Tablet,North,David,20,614.25,12285.0,Cash
+2024-01-15,Keyboard,North,David,13,97.37,1265.81,Credit Card
+2024-04-07,Smartphone,North,David,8,898.15,7185.2,UPI
+2024-02-10,Smartphone,South,Frank,5,208.52,1042.6,Online Transfer
+2024-02-22,Mouse,South,Alice,9,991.55,8923.95,Online Transfer
+2024-03-13,Keyboard,West,Frank,20,433.06,8661.2,Credit Card
+2024-02-21,Tablet,West,David,2,396.91,793.82,Online Transfer
+2024-03-09,Mouse,South,Frank,16,174.48,2791.68,UPI
+2024-03-06,Smartphone,East,Bob,18,690.63,12431.34,Cash
+2024-04-04,Monitor,East,Alice,10,723.1,7231.0,Credit Card
+2024-01-09,Smartphone,West,Frank,9,65.8,592.2,Credit Card
